@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Files too big
+archive/all_opinions.csv
+Data/all_opinions_1940.csv
+
 # C extensions
 *.so
 
