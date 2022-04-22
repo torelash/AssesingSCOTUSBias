@@ -1,4 +1,4 @@
-ChiefJustice,Name,StateApptFrom,AppointedByPresident,JudicialOathTaken,DateServiceTerminated
+﻿ChiefJustice,Name,StateApptFrom,AppointedByPresident,JudicialOathTaken,DateServiceTerminated
 1,"Jay, John",New York,Washington,"(a) October 19, 1789","June 29, 1795"
 1,"Rutledge, John",South Carolina,Washington,"August 12, 1795","December 15, 1795"
 1,"Ellsworth, Oliver",Connecticut,Washington,"March 8, 1796","December 15, 1800"
@@ -6,16 +6,16 @@ ChiefJustice,Name,StateApptFrom,AppointedByPresident,JudicialOathTaken,DateServi
 1,"Taney, Roger Brooke",Maryland,Jackson,"March 28, 1836","October 12, 1864"
 1,"Chase, Salmon Portland",Ohio,Lincoln,"December 15, 1864","May 7, 1873"
 1,"Waite, Morrison Remick",Ohio,Grant,"March 4, 1874","March 23, 1888"
-1,"Fuller, Melville Weston",Illinois,Cleveland,"October 8, 1888",4-Jul-10
-1,"White, Edward Douglass",Louisiana,Taft,19-Dec-10,19-May-21
-1,"Taft, William Howard",Connecticut,Harding,11-Jul-21,3-Feb-30
-1,"Hughes, Charles Evans",New York,Hoover,24-Feb-30,30-Jun-41
-1,"Stone, Harlan Fiske",New York,"Roosevelt, F.",3-Jul-41,22-Apr-46
-1,"Vinson, Fred Moore",Kentucky,Truman,24-Jun-46,8-Sep-53
-1,"Warren, Earl",California,Eisenhower,5-Oct-53,23-Jun-69
-1,"Burger, Warren Earl",Virginia,Nixon,23-Jun-69,26-Sep-86
-1,"Rehnquist, William H.",Virginia,Reagan,26-Sep-86,3-Sep-05
-1,"Roberts, John G., Jr.",Maryland,"Bush, G. W.",29-Sep-05,
+1,"Fuller, Melville Weston",Illinois,Cleveland,"October 8, 1888","July 4, 1910"
+1,"White, Edward Douglass",Louisiana,Taft,"December 19, 1910","May 19, 1921"
+1,"Taft, William Howard",Connecticut,Harding,"July 11, 1921","February 3, 1930"
+1,"Hughes, Charles Evans",New York,Hoover,"February 24, 1930","June 30, 1941"
+1,"Stone, Harlan Fiske",New York,"Roosevelt, F.","July 3, 1941","April 22, 1946"
+1,"Vinson, Fred Moore",Kentucky,Truman,"June 24, 1946","September 8, 1953"
+1,"Warren, Earl",California,Eisenhower,"October 5, 1953","June 23, 1969"
+1,"Burger, Warren Earl",Virginia,Nixon,"June 23, 1969","September 26, 1986"
+1,"Rehnquist, William H.",Virginia,Reagan,"September 26, 1986","September 3, 2005"
+1,"Roberts, John G., Jr.",Maryland,"Bush, G. W.","September 29, 2005",
 ,"Rutledge, John",South Carolina,Washington,"(a) February 15, 1790","March 5, 1791"
 ,"Cushing, William",Massachusetts,Washington,"(c) February 2, 1790","September 13, 1810"
 ,"Wilson, James",Pennsylvania,Washington,"(b) October 5, 1789","August 21, 1798"
@@ -53,69 +53,69 @@ ChiefJustice,Name,StateApptFrom,AppointedByPresident,JudicialOathTaken,DateServi
 ,"Strong, William",Pennsylvania,Grant,"March 14, 1870","December 14, 1880"
 ,"Bradley, Joseph P.",New Jersey,Grant,"March 23, 1870","January 22, 1892"
 ,"Hunt, Ward",New York,Grant,"January 9, 1873","January 27, 1882"
-,"Harlan, John Marshall",Kentucky,Hayes,December 10 1877,14-Oct-11
+,"Harlan, John Marshall",Kentucky,Hayes,December 10 1877,"October 14, 1911"
 ,"Woods, William Burnham",Georgia,Hayes,"January 5, 1881","May 14, 1887"
 ,"Matthews, Stanley",Ohio,Garfield,"May 17, 1881","March 22, 1889"
-,"Gray, Horace",Massachusetts,Arthur,"January 9, 1882",15-Sep-02
+,"Gray, Horace",Massachusetts,Arthur,"January 9, 1882","September 15, 1902"
 ,"Blatchford, Samuel",New York,Arthur,"April 3, 1882","July 7, 1893"
 ,"Lamar, Lucius Quintus C.",Mississippi,Cleveland,"January 18, 1888","January 23, 1893"
-,"Brewer, David Josiah",Kansas,Harrison,"January 6, 1890",28-Mar-10
-,"Brown, Henry Billings",Michigan,Harrison,"January 5, 1891",28-May-06
-,"Shiras, George, Jr.",Pennsylvania,Harrison,"October 10, 1892",23-Feb-03
+,"Brewer, David Josiah",Kansas,Harrison,"January 6, 1890","March 28, 1910"
+,"Brown, Henry Billings",Michigan,Harrison,"January 5, 1891","May 28, 1906"
+,"Shiras, George, Jr.",Pennsylvania,Harrison,"October 10, 1892","February 23, 1903"
 ,"Jackson, Howell Edmunds",Tennessee,Harrison,"March 4, 1893","August 8, 1895"
-,"White, Edward Douglass",Louisiana,Cleveland,"March 12, 1894","December 18, 1910* "
-,"Peckham, Rufus Wheeler",New York,Cleveland,"January 6, 1896",24-Oct-09
-,"McKenna, Joseph",California,McKinley,"January 26, 1898",5-Jan-25
-,"Holmes, Oliver Wendell",Massachusetts,"Roosevelt, T.",8-Dec-02,12-Jan-32
-,"Day, William Rufus",Ohio,"Roosevelt, T.",2-Mar-03,13-Nov-22
-,"Moody, William Henry",Massachusetts,"Roosevelt, T.",17-Dec-06,20-Nov-10
-,"Lurton, Horace Harmon",Tennessee,Taft,3-Jan-10,12-Jul-14
-,"Hughes, Charles Evans",New York,Taft,10-Oct-10,10-Jun-16
-,"Van Devanter, Willis",Wyoming,Taft,3-Jan-11,2-Jun-37
-,"Lamar, Joseph Rucker",Georgia,Taft,3-Jan-11,2-Jan-16
-,"Pitney, Mahlon",New Jersey,Taft,18-Mar-12,31-Dec-22
-,"McReynolds, James Clark",Tennessee,Wilson,12-Oct-14,31-Jan-41
-,"Brandeis, Louis Dembitz",Massachusetts,Wilson,"June 5,1916",13-Feb-39
-,"Clarke, John Hessin",Ohio,Wilson,9-Oct-16,18-Sep-22
-,"Sutherland, George",Utah,Harding,2-Oct-22,17-Jan-38
-,"Butler, Pierce",Minnesota,Harding,2-Jan-23,16-Nov-39
-,"Sanford, Edward Terry",Tennessee,Harding,19-Feb-23,8-Mar-30
-,"Stone, Harlan Fiske",New York,Coolidge,2-Mar-25,"July 2, 1941* "
-,"Roberts, Owen Josephus",Pennsylvania,Hoover,2-Jun-30,31-Jul-45
-,"Cardozo, Benjamin Nathan",New York,Hoover,14-Mar-32,9-Jul-38
-,"Black, Hugo Lafayette",Alabama,"Roosevelt, F.",19-Aug-37,17-Sep-71
-,"Reed, Stanley Forman",Kentucky,"Roosevelt, F.",31-Jan-38,25-Feb-57
-,"Frankfurter, Felix",Massachusetts,"Roosevelt, F.",30-Jan-39,28-Aug-62
-,"Douglas, William Orville",Connecticut,"Roosevelt, F.",17-Apr-39,12-Nov-75
-,"Murphy, Frank",Michigan,"Roosevelt, F.",5-Feb-40,19-Jul-49
-,"Byrnes, James Francis",South Carolina,"Roosevelt, F.",8-Jul-41,3-Oct-42
-,"Jackson, Robert Houghwout",New York,"Roosevelt, F.",11-Jul-41,9-Oct-54
-,"Rutledge, Wiley Blount",Iowa,"Roosevelt, F.",15-Feb-43,10-Sep-49
-,"Burton, Harold Hitz",Ohio,Truman,1-Oct-45,13-Oct-58
-,"Clark, Tom Campbell",Texas,Truman,24-Aug-49,12-Jun-67
-,"Minton, Sherman",Indiana,Truman,12-Oct-49,15-Oct-56
-,"Harlan, John Marshall",New York,Eisenhower,28-Mar-55,23-Sep-71
-,"Brennan, William J., Jr.",New Jersey,Eisenhower,16-Oct-56,20-Jul-90
-,"Whittaker, Charles Evans",Missouri,Eisenhower,25-Mar-57,31-Mar-62
-,"Stewart, Potter",Ohio,Eisenhower,14-Oct-58,3-Jul-81
-,"White, Byron Raymond",Colorado,Kennedy,16-Apr-62,28-Jun-93
-,"Goldberg, Arthur Joseph",Illinois,Kennedy,1-Oct-62,25-Jul-65
-,"Fortas, Abe",Tennessee,"Johnson, L.",4-Oct-65,14-May-69
-,"Marshall, Thurgood",New York,"Johnson, L.",2-Oct-67,1-Oct-91
-,"Blackmun, Harry A.",Minnesota,Nixon,9-Jun-70,3-Aug-94
-,"Powell, Lewis F., Jr.",Virginia,Nixon,7-Jan-72,26-Jun-87
-,"Rehnquist, William H.",Arizona,Nixon,7-Jan-72,"September 26, 1986* "
-,"Stevens, John Paul",Illinois,Ford,19-Dec-75,29-Jun-10
-,"O'Connor, Sandra Day",Arizona,Reagan,25-Sep-81,31-Jan-06
-,"Scalia, Antonin",Virginia,Reagan,26-Sep-86,13-Feb-16
-,"Kennedy, Anthony M.",California,Reagan,18-Feb-88,31-Jul-18
-,"Souter, David H.",New Hampshire,"Bush, G. H. W.",9-Oct-90,29-Jun-09
-,"Thomas, Clarence",Georgia,"Bush, G. H. W.",23-Oct-91,
-,"Ginsburg, Ruth Bader",New York,Clinton,10-Aug-93,18-Sep-20
-,"Breyer, Stephen G.",Massachusetts,Clinton,3-Aug-94,
-,"Alito, Samuel A., Jr.",New Jersey,"Bush, G. W.",31-Jan-06,
-,"Sotomayor, Sonia",New York,Obama,8-Aug-09,
-,"Kagan, Elena",Massachusetts,Obama,7-Aug-10,
-,"Gorsuch, Neil M.",Colorado,Trump,10-Apr-17,
-,"Kavanaugh, Brett M.",Maryland,Trump,6-Oct-18,
-,"Barrett, Amy Coney",Indiana,Trump,27-Oct-20,
+,"White, Edward Douglass",Louisiana,Cleveland,"March 12, 1894","December 18, 1910"
+,"Peckham, Rufus Wheeler",New York,Cleveland,"January 6, 1896","October 24, 1909"
+,"McKenna, Joseph",California,McKinley,"January 26, 1898","January 5, 1925"
+,"Holmes, Oliver Wendell",Massachusetts,"Roosevelt, T.","December 8, 1902","January 12, 1932"
+,"Day, William Rufus",Ohio,"Roosevelt, T.","March 2, 1903","November 13, 1922"
+,"Moody, William Henry",Massachusetts,"Roosevelt, T.","December 17, 1906","November 20, 1910"
+,"Lurton, Horace Harmon",Tennessee,Taft,"January 3, 1910","July 12, 1914"
+,"Hughes, Charles Evans",New York,Taft,"October 10, 1910","June 10, 1916"
+,"Van Devanter, Willis",Wyoming,Taft,"January 3, 1911","June 2, 1937"
+,"Lamar, Joseph Rucker",Georgia,Taft,"January 3, 1911","January 2, 1916"
+,"Pitney, Mahlon",New Jersey,Taft,"March 18, 1912","December 31, 1922"
+,"McReynolds, James Clark",Tennessee,Wilson,"October 12, 1914","January 31, 1941"
+,"Brandeis, Louis Dembitz",Massachusetts,Wilson,"June 5,1916","February 13, 1939"
+,"Clarke, John Hessin",Ohio,Wilson,"October 9, 1916","September 18, 1922"
+,"Sutherland, George",Utah,Harding,"October 2, 1922","January 17, 1938"
+,"Butler, Pierce",Minnesota,Harding,"January 2, 1923","November 16, 1939"
+,"Sanford, Edward Terry",Tennessee,Harding,"February 19, 1923","March 8, 1930"
+,"Stone, Harlan Fiske",New York,Coolidge,"March 2, 1925","July 2, 1941"
+,"Roberts, Owen Josephus",Pennsylvania,Hoover,"June 2, 1930","July 31, 1945"
+,"Cardozo, Benjamin Nathan",New York,Hoover,"March 14, 1932","July 9, 1938"
+,"Black, Hugo Lafayette",Alabama,"Roosevelt, F.","August 19, 1937","September 17, 1971"
+,"Reed, Stanley Forman",Kentucky,"Roosevelt, F.","January 31, 1938","February 25, 1957"
+,"Frankfurter, Felix",Massachusetts,"Roosevelt, F.","January 30, 1939","August 28, 1962"
+,"Douglas, William Orville",Connecticut,"Roosevelt, F.","April 17, 1939","November 12, 1975"
+,"Murphy, Frank",Michigan,"Roosevelt, F.","February 5, 1940","July 19, 1949"
+,"Byrnes, James Francis",South Carolina,"Roosevelt, F.","July 8, 1941","October 3, 1942"
+,"Jackson, Robert Houghwout",New York,"Roosevelt, F.","July 11, 1941","October 9, 1954"
+,"Rutledge, Wiley Blount",Iowa,"Roosevelt, F.","February 15, 1943","September 10, 1949"
+,"Burton, Harold Hitz",Ohio,Truman,"October 1, 1945","October 13, 1958"
+,"Clark, Tom Campbell",Texas,Truman,"August 24, 1949","June 12, 1967"
+,"Minton, Sherman",Indiana,Truman,"October 12, 1949","October 15, 1956"
+,"Harlan, John Marshall",New York,Eisenhower,"March 28, 1955","September 23, 1971"
+,"Brennan, William J., Jr.",New Jersey,Eisenhower,"October 16, 1956","July 20, 1990"
+,"Whittaker, Charles Evans",Missouri,Eisenhower,"March 25, 1957","March 31, 1962"
+,"Stewart, Potter",Ohio,Eisenhower,"October 14, 1958","July 3, 1981"
+,"White, Byron Raymond",Colorado,Kennedy,"April 16, 1962","June 28, 1993"
+,"Goldberg, Arthur Joseph",Illinois,Kennedy,"October 1, 1962","July 25, 1965"
+,"Fortas, Abe",Tennessee,"Johnson, L.","October 4, 1965","May 14, 1969"
+,"Marshall, Thurgood",New York,"Johnson, L.","October 2, 1967","October 1, 1991"
+,"Blackmun, Harry A.",Minnesota,Nixon,"June 9, 1970","August 3, 1994"
+,"Powell, Lewis F., Jr.",Virginia,Nixon,"January 7, 1972","June 26, 1987"
+,"Rehnquist, William H.",Arizona,Nixon,"January 7, 1972","September 26, 1986"
+,"Stevens, John Paul",Illinois,Ford,"December 19, 1975","June 29, 2010"
+,"O'Connor, Sandra Day",Arizona,Reagan,"September 25, 1981","January 31, 2006"
+,"Scalia, Antonin",Virginia,Reagan,"September 26, 1986","February 13, 2016"
+,"Kennedy, Anthony M.",California,Reagan,"February 18, 1988","July 31, 2018"
+,"Souter, David H.",New Hampshire,"Bush, G. H. W.","October 9, 1990","June 29, 2009"
+,"Thomas, Clarence",Georgia,"Bush, G. H. W.","October 23, 1991",
+,"Ginsburg, Ruth Bader",New York,Clinton,"August 10, 1993","September 18, 2020"
+,"Breyer, Stephen G.",Massachusetts,Clinton,"August 3, 1994",
+,"Alito, Samuel A., Jr.",New Jersey,"Bush, G. W.","January 31, 2006",
+,"Sotomayor, Sonia",New York,Obama,"August 8, 2009",
+,"Kagan, Elena",Massachusetts,Obama,"August 7, 2010",
+,"Gorsuch, Neil M.",Colorado,Trump,"April 10, 2017",
+,"Kavanaugh, Brett M.",Maryland,Trump,"October 6, 2018",
+,"Barrett, Amy Coney",Indiana,Trump,"October 27, 2020",
