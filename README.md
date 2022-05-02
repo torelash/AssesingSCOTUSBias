@@ -3,7 +3,7 @@ Identifying Biases in SCOTUS Judgements Based on Political Affiliations
 Project Team: Javier Aristizabal, Katie Harris, Oluwatoorese Lasebikan, Anum Malik, Hajra Shahab
 
 ## Getting started:
-All csv files needed to run the [topic_analysis.ipynb](topic_analysis.ipynb) can be found in the [Data](Data) folder. *Before running the notebook you will need to unzip the file all_opinions_1940.zip and install the WordCloud library if it isn't already.*
+All csv files needed to run the [topic_analysis.ipynb](topic_analysis.ipynb) can be found in the [Data](Data) folder. **_Before running the notebook you will need to unzip the file all_opinions_1940.zip and install the WordCloud library if it isn't already._**
 
 `pip install https://github.com/sulunemre/word_cloud/releases/download/2/wordcloud-0.post1+gd8241b5-cp39-cp39-win_amd64.whl`
 
