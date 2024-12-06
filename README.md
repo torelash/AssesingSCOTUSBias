@@ -1,4 +1,4 @@
-# AssesingSCOTUSBias
+# AssessingSCOTUSBias
 Identifying Biases in SCOTUS Judgements Based on Political Affiliations 
 Project Team: Javier Aristizabal, Katie Harris, Oluwatoorese Lasebikan, Anum Malik, Hajra Shahab
 
